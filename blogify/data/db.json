@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "This is an example blog.\nYou can add an additonal blog through the New Blog button featured on the TaskBar. There is also a feature to delete the blog. You can click this blog right here by clicking the delete button.",
+      "author": "Brody Roberts",
+      "id": 1
+    }
+  ]
+}
